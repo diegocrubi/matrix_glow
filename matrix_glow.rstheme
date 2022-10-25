@@ -12,7 +12,8 @@
 
 .ace_print-margin {
   width: 1px;
-  background: #ff0000;
+  background: #8BE096;
+  
 }
 
 /* background forground */
